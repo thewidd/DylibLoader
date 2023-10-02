@@ -1,0 +1,17 @@
+# log enable -f /tmp/ondemand.txt lldb on-demand
+# log enable lldb on-demand
+# log enable lldb module
+# log enable lldb symbol
+log enable lldb all
+log disable lldb demangle
+# log enable lldb breakpoint
+
+ # settings set symbols.load-on-demand true
+# settings set target.auto-import-clang-modules true
+# settings set target.import-std-module true
+# settings set target.memory-module-load-level complete
+
+# test to see if this makes lldb slower, making me not have to restart lldb server
+# settings set platform.use-module-cache true
+
+# breakpoint set --file C_orig.cpp -n C::HelloWorld

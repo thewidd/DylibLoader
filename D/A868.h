@@ -1,0 +1,8007 @@
+
+
+namespace A868
+{
+    
+    double A868_0(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_4(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_5(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_6(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_7(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_8(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_9(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_10(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_11(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_12(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_13(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_14(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_15(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_16(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_17(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_18(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_19(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_20(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_21(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_22(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_23(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_24(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_25(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_26(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_27(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_28(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_29(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_30(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_31(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_32(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_33(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_34(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_35(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_36(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_37(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_38(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_39(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_40(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_41(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_42(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_43(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_44(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_45(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_46(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_47(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_48(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_49(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_50(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_51(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_52(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_53(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_54(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_55(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_56(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_57(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_58(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_59(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_60(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_61(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_62(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_63(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_64(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_65(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_66(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_67(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_68(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_69(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_70(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_71(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_72(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_73(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_74(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_75(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_76(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_77(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_78(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_79(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_80(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_81(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_82(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_83(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_84(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_85(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_86(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_87(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_88(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_89(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_90(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_91(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_92(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_93(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_94(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_95(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_96(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_97(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_98(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_99(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_100(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_101(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_102(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_103(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_104(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_105(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_106(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_107(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_108(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_109(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_110(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_111(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_112(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_113(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_114(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_115(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_116(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_117(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_118(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_119(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_120(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_121(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_122(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_123(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_124(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_125(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_126(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_127(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_128(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_129(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_130(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_131(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_132(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_133(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_134(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_135(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_136(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_137(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_138(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_139(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_140(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_141(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_142(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_143(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_144(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_145(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_146(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_147(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_148(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_149(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_150(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_151(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_152(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_153(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_154(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_155(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_156(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_157(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_158(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_159(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_160(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_161(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_162(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_163(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_164(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_165(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_166(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_167(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_168(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_169(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_170(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_171(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_172(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_173(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_174(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_175(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_176(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_177(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_178(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_179(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_180(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_181(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_182(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_183(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_184(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_185(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_186(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_187(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_188(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_189(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_190(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_191(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_192(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_193(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_194(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_195(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_196(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_197(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_198(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_199(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_200(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_201(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_202(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_203(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_204(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_205(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_206(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_207(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_208(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_209(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_210(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_211(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_212(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_213(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_214(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_215(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_216(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_217(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_218(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_219(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_220(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_221(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_222(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_223(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_224(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_225(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_226(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_227(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_228(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_229(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_230(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_231(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_232(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_233(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_234(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_235(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_236(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_237(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_238(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_239(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_240(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_241(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_242(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_243(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_244(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_245(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_246(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_247(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_248(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_249(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_250(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_251(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_252(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_253(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_254(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_255(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_256(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_257(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_258(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_259(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_260(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_261(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_262(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_263(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_264(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_265(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_266(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_267(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_268(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_269(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_270(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_271(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_272(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_273(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_274(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_275(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_276(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_277(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_278(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_279(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_280(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_281(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_282(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_283(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_284(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_285(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_286(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_287(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_288(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_289(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_290(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_291(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_292(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_293(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_294(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_295(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_296(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_297(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_298(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_299(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_300(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_301(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_302(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_303(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_304(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_305(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_306(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_307(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_308(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_309(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_310(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_311(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_312(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_313(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_314(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_315(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_316(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_317(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_318(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_319(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_320(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_321(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_322(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_323(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_324(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_325(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_326(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_327(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_328(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_329(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_330(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_331(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_332(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_333(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_334(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_335(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_336(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_337(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_338(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_339(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_340(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_341(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_342(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_343(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_344(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_345(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_346(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_347(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_348(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_349(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_350(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_351(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_352(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_353(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_354(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_355(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_356(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_357(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_358(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_359(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_360(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_361(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_362(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_363(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_364(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_365(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_366(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_367(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_368(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_369(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_370(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_371(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_372(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_373(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_374(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_375(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_376(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_377(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_378(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_379(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_380(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_381(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_382(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_383(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_384(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_385(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_386(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_387(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_388(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_389(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_390(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_391(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_392(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_393(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_394(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_395(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_396(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_397(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_398(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_399(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_400(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_401(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_402(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_403(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_404(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_405(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_406(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_407(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_408(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_409(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_410(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_411(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_412(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_413(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_414(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_415(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_416(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_417(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_418(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_419(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_420(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_421(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_422(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_423(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_424(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_425(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_426(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_427(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_428(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_429(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_430(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_431(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_432(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_433(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_434(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_435(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_436(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_437(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_438(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_439(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_440(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_441(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_442(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_443(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_444(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_445(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_446(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_447(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_448(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_449(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_450(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_451(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_452(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_453(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_454(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_455(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_456(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_457(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_458(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_459(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_460(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_461(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_462(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_463(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_464(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_465(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_466(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_467(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_468(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_469(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_470(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_471(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_472(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_473(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_474(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_475(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_476(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_477(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_478(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_479(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_480(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_481(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_482(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_483(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_484(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_485(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_486(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_487(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_488(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_489(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_490(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_491(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_492(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_493(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_494(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_495(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_496(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_497(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_498(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_499(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_500(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_501(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_502(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_503(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_504(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_505(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_506(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_507(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_508(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_509(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_510(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_511(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_512(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_513(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_514(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_515(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_516(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_517(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_518(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_519(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_520(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_521(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_522(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_523(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_524(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_525(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_526(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_527(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_528(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_529(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_530(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_531(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_532(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_533(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_534(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_535(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_536(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_537(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_538(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_539(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_540(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_541(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_542(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_543(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_544(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_545(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_546(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_547(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_548(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_549(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_550(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_551(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_552(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_553(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_554(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_555(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_556(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_557(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_558(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_559(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_560(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_561(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_562(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_563(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_564(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_565(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_566(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_567(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_568(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_569(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_570(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_571(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_572(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_573(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_574(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_575(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_576(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_577(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_578(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_579(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_580(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_581(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_582(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_583(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_584(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_585(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_586(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_587(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_588(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_589(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_590(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_591(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_592(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_593(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_594(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_595(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_596(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_597(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_598(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_599(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_600(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_601(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_602(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_603(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_604(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_605(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_606(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_607(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_608(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_609(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_610(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_611(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_612(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_613(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_614(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_615(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_616(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_617(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_618(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_619(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_620(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_621(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_622(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_623(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_624(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_625(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_626(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_627(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_628(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_629(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_630(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_631(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_632(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_633(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_634(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_635(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_636(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_637(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_638(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_639(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_640(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_641(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_642(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_643(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_644(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_645(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_646(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_647(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_648(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_649(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_650(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_651(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_652(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_653(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_654(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_655(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_656(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_657(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_658(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_659(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_660(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_661(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_662(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_663(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_664(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_665(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_666(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_667(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_668(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_669(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_670(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_671(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_672(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_673(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_674(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_675(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_676(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_677(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_678(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_679(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_680(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_681(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_682(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_683(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_684(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_685(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_686(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_687(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_688(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_689(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_690(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_691(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_692(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_693(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_694(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_695(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_696(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_697(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_698(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_699(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_700(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_701(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_702(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_703(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_704(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_705(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_706(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_707(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_708(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_709(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_710(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_711(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_712(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_713(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_714(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_715(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_716(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_717(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_718(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_719(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_720(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_721(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_722(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_723(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_724(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_725(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_726(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_727(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_728(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_729(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_730(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_731(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_732(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_733(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_734(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_735(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_736(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_737(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_738(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_739(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_740(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_741(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_742(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_743(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_744(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_745(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_746(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_747(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_748(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_749(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_750(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_751(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_752(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_753(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_754(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_755(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_756(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_757(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_758(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_759(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_760(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_761(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_762(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_763(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_764(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_765(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_766(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_767(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_768(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_769(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_770(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_771(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_772(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_773(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_774(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_775(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_776(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_777(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_778(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_779(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_780(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_781(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_782(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_783(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_784(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_785(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_786(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_787(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_788(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_789(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_790(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_791(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_792(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_793(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_794(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_795(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_796(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_797(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_798(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_799(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_800(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_801(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_802(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_803(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_804(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_805(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_806(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_807(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_808(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_809(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_810(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_811(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_812(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_813(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_814(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_815(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_816(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_817(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_818(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_819(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_820(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_821(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_822(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_823(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_824(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_825(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_826(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_827(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_828(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_829(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_830(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_831(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_832(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_833(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_834(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_835(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_836(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_837(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_838(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_839(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_840(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_841(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_842(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_843(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_844(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_845(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_846(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_847(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_848(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_849(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_850(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_851(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_852(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_853(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_854(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_855(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_856(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_857(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_858(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_859(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_860(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_861(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_862(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_863(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_864(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_865(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_866(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_867(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_868(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_869(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_870(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_871(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_872(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_873(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_874(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_875(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_876(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_877(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_878(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_879(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_880(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_881(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_882(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_883(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_884(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_885(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_886(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_887(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_888(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_889(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_890(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_891(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_892(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_893(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_894(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_895(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_896(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_897(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_898(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_899(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_900(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_901(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_902(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_903(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_904(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_905(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_906(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_907(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_908(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_909(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_910(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_911(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_912(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_913(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_914(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_915(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_916(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_917(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_918(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_919(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_920(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_921(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_922(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_923(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_924(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_925(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_926(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_927(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_928(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_929(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_930(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_931(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_932(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_933(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_934(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_935(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_936(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_937(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_938(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_939(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_940(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_941(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_942(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_943(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_944(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_945(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_946(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_947(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_948(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_949(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_950(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_951(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_952(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_953(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_954(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_955(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_956(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_957(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_958(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_959(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_960(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_961(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_962(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_963(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_964(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_965(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_966(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_967(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_968(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_969(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_970(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_971(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_972(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_973(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_974(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_975(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_976(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_977(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_978(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_979(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_980(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_981(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_982(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_983(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_984(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_985(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_986(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_987(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_988(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_989(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_990(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_991(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_992(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_993(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_994(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_995(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_996(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_997(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_998(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_999(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1000(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1001(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1002(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1003(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1004(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1005(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1006(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1007(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1008(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1009(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1010(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1011(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1012(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1013(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1014(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1015(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1016(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1017(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1018(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1019(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1020(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1021(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1022(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1023(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1024(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1025(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1026(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1027(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1028(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1029(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1030(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1031(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1032(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1033(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1034(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1035(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1036(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1037(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1038(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1039(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1040(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1041(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1042(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1043(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1044(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1045(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1046(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1047(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1048(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1049(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1050(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1051(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1052(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1053(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1054(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1055(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1056(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1057(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1058(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1059(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1060(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1061(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1062(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1063(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1064(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1065(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1066(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1067(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1068(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1069(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1070(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1071(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1072(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1073(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1074(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1075(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1076(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1077(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1078(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1079(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1080(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1081(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1082(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1083(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1084(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1085(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1086(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1087(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1088(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1089(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1090(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1091(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1092(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1093(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1094(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1095(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1096(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1097(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1098(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1099(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1100(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1101(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1102(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1103(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1104(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1105(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1106(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1107(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1108(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1109(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1110(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1111(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1112(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1113(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1114(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1115(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1116(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1117(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1118(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1119(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1120(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1121(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1122(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1123(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1124(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1125(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1126(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1127(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1128(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1129(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1130(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1131(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1132(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1133(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1134(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1135(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1136(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1137(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1138(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1139(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1140(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1141(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1142(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1143(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1144(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1145(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1146(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1147(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1148(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1149(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1150(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1151(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1152(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1153(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1154(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1155(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1156(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1157(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1158(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1159(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1160(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1161(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1162(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1163(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1164(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1165(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1166(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1167(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1168(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1169(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1170(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1171(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1172(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1173(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1174(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1175(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1176(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1177(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1178(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1179(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1180(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1181(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1182(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1183(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1184(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1185(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1186(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1187(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1188(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1189(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1190(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1191(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1192(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1193(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1194(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1195(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1196(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1197(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1198(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1199(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1200(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1201(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1202(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1203(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1204(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1205(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1206(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1207(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1208(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1209(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1210(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1211(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1212(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1213(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1214(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1215(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1216(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1217(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1218(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1219(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1220(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1221(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1222(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1223(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1224(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1225(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1226(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1227(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1228(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1229(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1230(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1231(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1232(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1233(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1234(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1235(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1236(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1237(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1238(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1239(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1240(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1241(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1242(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1243(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1244(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1245(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1246(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1247(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1248(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1249(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1250(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1251(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1252(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1253(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1254(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1255(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1256(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1257(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1258(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1259(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1260(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1261(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1262(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1263(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1264(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1265(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1266(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1267(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1268(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1269(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1270(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1271(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1272(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1273(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1274(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1275(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1276(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1277(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1278(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1279(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1280(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1281(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1282(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1283(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1284(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1285(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1286(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1287(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1288(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1289(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1290(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1291(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1292(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1293(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1294(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1295(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1296(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1297(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1298(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1299(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1300(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1301(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1302(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1303(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1304(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1305(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1306(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1307(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1308(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1309(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1310(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1311(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1312(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1313(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1314(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1315(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1316(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1317(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1318(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1319(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1320(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1321(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1322(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1323(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1324(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1325(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1326(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1327(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1328(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1329(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1330(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1331(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1332(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1333(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1334(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1335(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1336(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1337(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1338(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1339(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1340(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1341(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1342(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1343(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1344(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1345(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1346(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1347(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1348(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1349(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1350(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1351(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1352(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1353(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1354(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1355(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1356(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1357(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1358(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1359(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1360(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1361(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1362(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1363(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1364(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1365(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1366(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1367(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1368(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1369(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1370(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1371(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1372(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1373(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1374(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1375(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1376(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1377(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1378(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1379(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1380(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1381(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1382(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1383(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1384(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1385(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1386(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1387(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1388(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1389(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1390(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1391(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1392(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1393(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1394(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1395(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1396(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1397(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1398(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1399(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1400(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1401(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1402(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1403(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1404(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1405(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1406(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1407(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1408(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1409(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1410(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1411(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1412(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1413(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1414(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1415(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1416(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1417(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1418(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1419(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1420(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1421(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1422(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1423(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1424(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1425(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1426(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1427(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1428(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1429(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1430(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1431(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1432(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1433(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1434(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1435(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1436(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1437(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1438(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1439(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1440(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1441(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1442(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1443(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1444(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1445(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1446(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1447(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1448(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1449(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1450(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1451(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1452(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1453(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1454(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1455(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1456(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1457(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1458(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1459(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1460(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1461(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1462(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1463(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1464(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1465(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1466(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1467(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1468(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1469(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1470(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1471(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1472(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1473(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1474(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1475(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1476(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1477(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1478(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1479(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1480(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1481(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1482(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1483(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1484(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1485(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1486(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1487(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1488(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1489(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1490(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1491(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1492(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1493(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1494(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1495(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1496(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1497(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1498(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1499(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1500(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1501(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1502(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1503(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1504(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1505(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1506(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1507(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1508(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1509(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1510(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1511(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1512(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1513(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1514(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1515(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1516(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1517(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1518(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1519(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1520(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1521(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1522(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1523(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1524(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1525(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1526(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1527(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1528(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1529(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1530(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1531(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1532(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1533(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1534(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1535(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1536(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1537(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1538(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1539(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1540(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1541(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1542(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1543(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1544(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1545(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1546(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1547(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1548(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1549(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1550(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1551(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1552(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1553(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1554(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1555(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1556(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1557(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1558(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1559(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1560(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1561(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1562(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1563(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1564(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1565(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1566(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1567(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1568(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1569(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1570(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1571(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1572(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1573(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1574(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1575(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1576(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1577(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1578(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1579(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1580(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1581(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1582(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1583(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1584(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1585(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1586(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1587(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1588(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1589(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1590(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1591(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1592(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1593(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1594(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1595(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1596(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1597(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1598(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1599(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1600(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1601(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1602(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1603(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1604(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1605(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1606(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1607(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1608(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1609(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1610(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1611(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1612(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1613(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1614(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1615(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1616(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1617(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1618(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1619(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1620(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1621(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1622(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1623(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1624(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1625(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1626(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1627(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1628(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1629(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1630(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1631(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1632(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1633(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1634(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1635(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1636(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1637(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1638(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1639(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1640(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1641(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1642(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1643(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1644(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1645(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1646(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1647(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1648(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1649(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1650(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1651(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1652(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1653(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1654(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1655(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1656(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1657(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1658(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1659(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1660(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1661(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1662(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1663(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1664(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1665(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1666(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1667(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1668(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1669(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1670(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1671(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1672(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1673(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1674(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1675(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1676(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1677(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1678(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1679(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1680(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1681(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1682(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1683(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1684(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1685(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1686(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1687(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1688(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1689(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1690(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1691(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1692(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1693(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1694(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1695(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1696(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1697(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1698(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1699(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1700(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1701(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1702(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1703(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1704(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1705(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1706(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1707(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1708(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1709(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1710(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1711(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1712(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1713(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1714(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1715(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1716(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1717(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1718(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1719(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1720(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1721(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1722(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1723(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1724(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1725(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1726(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1727(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1728(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1729(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1730(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1731(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1732(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1733(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1734(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1735(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1736(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1737(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1738(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1739(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1740(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1741(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1742(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1743(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1744(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1745(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1746(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1747(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1748(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1749(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1750(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1751(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1752(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1753(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1754(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1755(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1756(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1757(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1758(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1759(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1760(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1761(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1762(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1763(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1764(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1765(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1766(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1767(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1768(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1769(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1770(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1771(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1772(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1773(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1774(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1775(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1776(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1777(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1778(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1779(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1780(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1781(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1782(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1783(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1784(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1785(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1786(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1787(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1788(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1789(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1790(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1791(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1792(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1793(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1794(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1795(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1796(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1797(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1798(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1799(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1800(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1801(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1802(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1803(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1804(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1805(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1806(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1807(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1808(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1809(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1810(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1811(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1812(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1813(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1814(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1815(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1816(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1817(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1818(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1819(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1820(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1821(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1822(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1823(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1824(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1825(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1826(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1827(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1828(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1829(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1830(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1831(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1832(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1833(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1834(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1835(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1836(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1837(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1838(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1839(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1840(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1841(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1842(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1843(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1844(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1845(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1846(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1847(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1848(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1849(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1850(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1851(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1852(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1853(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1854(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1855(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1856(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1857(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1858(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1859(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1860(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1861(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1862(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1863(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1864(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1865(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1866(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1867(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1868(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1869(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1870(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1871(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1872(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1873(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1874(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1875(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1876(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1877(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1878(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1879(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1880(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1881(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1882(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1883(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1884(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1885(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1886(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1887(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1888(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1889(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1890(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1891(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1892(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1893(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1894(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1895(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1896(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1897(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1898(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1899(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1900(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1901(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1902(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1903(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1904(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1905(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1906(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1907(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1908(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1909(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1910(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1911(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1912(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1913(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1914(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1915(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1916(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1917(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1918(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1919(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1920(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1921(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1922(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1923(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1924(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1925(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1926(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1927(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1928(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1929(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1930(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1931(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1932(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1933(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1934(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1935(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1936(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1937(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1938(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1939(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1940(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1941(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1942(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1943(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1944(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1945(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1946(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1947(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1948(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1949(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1950(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1951(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1952(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1953(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1954(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1955(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1956(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1957(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1958(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1959(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1960(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1961(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1962(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1963(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1964(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1965(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1966(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1967(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1968(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1969(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1970(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1971(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1972(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1973(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1974(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1975(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1976(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1977(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1978(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1979(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1980(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1981(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1982(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1983(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1984(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1985(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1986(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1987(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1988(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1989(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1990(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1991(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1992(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1993(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1994(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1995(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1996(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1997(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1998(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_1999(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2000(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2001(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2002(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2003(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2004(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2005(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2006(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2007(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2008(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2009(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2010(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2011(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2012(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2013(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2014(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2015(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2016(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2017(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2018(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2019(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2020(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2021(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2022(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2023(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2024(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2025(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2026(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2027(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2028(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2029(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2030(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2031(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2032(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2033(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2034(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2035(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2036(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2037(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2038(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2039(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2040(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2041(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2042(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2043(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2044(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2045(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2046(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2047(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2048(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2049(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2050(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2051(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2052(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2053(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2054(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2055(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2056(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2057(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2058(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2059(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2060(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2061(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2062(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2063(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2064(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2065(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2066(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2067(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2068(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2069(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2070(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2071(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2072(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2073(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2074(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2075(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2076(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2077(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2078(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2079(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2080(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2081(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2082(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2083(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2084(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2085(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2086(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2087(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2088(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2089(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2090(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2091(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2092(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2093(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2094(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2095(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2096(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2097(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2098(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2099(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2100(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2101(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2102(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2103(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2104(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2105(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2106(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2107(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2108(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2109(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2110(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2111(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2112(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2113(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2114(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2115(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2116(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2117(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2118(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2119(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2120(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2121(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2122(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2123(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2124(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2125(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2126(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2127(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2128(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2129(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2130(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2131(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2132(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2133(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2134(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2135(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2136(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2137(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2138(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2139(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2140(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2141(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2142(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2143(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2144(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2145(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2146(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2147(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2148(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2149(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2150(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2151(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2152(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2153(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2154(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2155(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2156(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2157(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2158(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2159(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2160(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2161(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2162(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2163(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2164(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2165(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2166(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2167(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2168(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2169(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2170(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2171(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2172(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2173(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2174(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2175(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2176(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2177(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2178(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2179(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2180(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2181(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2182(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2183(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2184(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2185(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2186(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2187(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2188(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2189(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2190(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2191(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2192(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2193(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2194(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2195(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2196(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2197(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2198(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2199(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2200(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2201(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2202(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2203(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2204(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2205(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2206(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2207(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2208(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2209(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2210(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2211(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2212(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2213(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2214(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2215(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2216(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2217(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2218(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2219(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2220(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2221(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2222(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2223(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2224(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2225(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2226(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2227(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2228(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2229(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2230(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2231(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2232(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2233(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2234(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2235(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2236(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2237(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2238(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2239(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2240(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2241(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2242(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2243(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2244(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2245(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2246(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2247(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2248(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2249(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2250(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2251(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2252(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2253(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2254(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2255(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2256(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2257(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2258(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2259(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2260(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2261(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2262(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2263(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2264(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2265(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2266(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2267(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2268(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2269(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2270(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2271(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2272(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2273(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2274(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2275(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2276(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2277(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2278(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2279(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2280(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2281(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2282(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2283(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2284(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2285(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2286(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2287(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2288(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2289(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2290(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2291(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2292(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2293(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2294(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2295(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2296(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2297(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2298(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2299(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2300(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2301(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2302(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2303(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2304(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2305(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2306(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2307(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2308(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2309(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2310(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2311(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2312(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2313(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2314(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2315(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2316(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2317(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2318(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2319(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2320(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2321(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2322(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2323(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2324(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2325(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2326(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2327(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2328(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2329(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2330(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2331(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2332(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2333(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2334(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2335(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2336(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2337(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2338(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2339(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2340(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2341(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2342(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2343(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2344(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2345(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2346(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2347(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2348(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2349(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2350(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2351(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2352(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2353(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2354(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2355(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2356(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2357(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2358(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2359(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2360(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2361(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2362(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2363(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2364(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2365(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2366(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2367(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2368(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2369(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2370(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2371(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2372(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2373(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2374(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2375(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2376(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2377(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2378(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2379(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2380(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2381(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2382(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2383(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2384(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2385(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2386(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2387(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2388(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2389(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2390(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2391(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2392(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2393(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2394(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2395(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2396(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2397(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2398(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2399(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2400(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2401(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2402(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2403(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2404(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2405(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2406(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2407(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2408(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2409(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2410(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2411(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2412(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2413(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2414(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2415(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2416(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2417(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2418(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2419(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2420(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2421(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2422(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2423(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2424(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2425(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2426(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2427(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2428(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2429(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2430(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2431(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2432(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2433(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2434(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2435(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2436(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2437(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2438(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2439(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2440(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2441(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2442(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2443(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2444(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2445(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2446(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2447(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2448(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2449(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2450(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2451(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2452(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2453(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2454(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2455(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2456(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2457(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2458(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2459(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2460(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2461(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2462(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2463(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2464(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2465(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2466(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2467(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2468(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2469(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2470(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2471(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2472(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2473(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2474(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2475(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2476(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2477(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2478(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2479(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2480(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2481(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2482(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2483(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2484(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2485(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2486(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2487(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2488(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2489(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2490(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2491(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2492(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2493(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2494(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2495(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2496(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2497(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2498(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2499(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2500(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2501(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2502(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2503(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2504(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2505(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2506(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2507(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2508(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2509(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2510(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2511(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2512(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2513(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2514(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2515(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2516(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2517(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2518(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2519(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2520(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2521(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2522(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2523(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2524(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2525(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2526(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2527(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2528(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2529(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2530(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2531(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2532(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2533(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2534(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2535(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2536(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2537(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2538(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2539(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2540(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2541(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2542(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2543(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2544(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2545(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2546(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2547(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2548(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2549(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2550(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2551(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2552(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2553(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2554(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2555(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2556(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2557(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2558(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2559(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2560(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2561(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2562(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2563(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2564(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2565(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2566(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2567(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2568(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2569(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2570(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2571(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2572(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2573(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2574(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2575(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2576(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2577(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2578(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2579(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2580(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2581(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2582(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2583(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2584(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2585(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2586(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2587(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2588(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2589(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2590(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2591(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2592(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2593(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2594(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2595(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2596(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2597(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2598(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2599(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2600(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2601(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2602(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2603(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2604(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2605(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2606(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2607(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2608(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2609(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2610(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2611(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2612(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2613(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2614(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2615(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2616(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2617(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2618(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2619(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2620(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2621(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2622(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2623(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2624(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2625(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2626(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2627(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2628(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2629(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2630(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2631(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2632(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2633(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2634(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2635(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2636(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2637(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2638(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2639(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2640(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2641(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2642(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2643(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2644(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2645(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2646(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2647(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2648(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2649(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2650(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2651(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2652(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2653(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2654(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2655(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2656(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2657(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2658(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2659(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2660(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2661(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2662(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2663(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2664(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2665(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2666(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2667(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2668(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2669(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2670(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2671(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2672(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2673(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2674(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2675(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2676(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2677(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2678(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2679(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2680(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2681(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2682(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2683(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2684(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2685(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2686(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2687(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2688(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2689(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2690(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2691(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2692(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2693(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2694(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2695(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2696(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2697(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2698(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2699(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2700(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2701(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2702(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2703(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2704(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2705(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2706(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2707(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2708(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2709(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2710(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2711(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2712(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2713(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2714(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2715(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2716(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2717(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2718(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2719(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2720(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2721(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2722(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2723(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2724(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2725(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2726(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2727(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2728(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2729(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2730(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2731(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2732(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2733(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2734(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2735(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2736(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2737(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2738(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2739(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2740(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2741(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2742(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2743(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2744(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2745(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2746(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2747(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2748(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2749(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2750(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2751(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2752(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2753(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2754(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2755(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2756(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2757(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2758(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2759(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2760(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2761(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2762(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2763(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2764(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2765(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2766(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2767(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2768(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2769(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2770(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2771(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2772(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2773(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2774(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2775(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2776(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2777(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2778(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2779(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2780(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2781(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2782(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2783(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2784(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2785(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2786(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2787(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2788(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2789(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2790(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2791(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2792(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2793(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2794(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2795(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2796(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2797(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2798(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2799(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2800(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2801(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2802(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2803(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2804(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2805(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2806(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2807(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2808(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2809(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2810(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2811(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2812(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2813(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2814(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2815(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2816(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2817(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2818(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2819(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2820(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2821(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2822(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2823(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2824(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2825(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2826(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2827(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2828(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2829(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2830(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2831(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2832(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2833(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2834(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2835(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2836(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2837(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2838(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2839(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2840(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2841(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2842(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2843(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2844(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2845(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2846(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2847(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2848(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2849(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2850(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2851(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2852(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2853(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2854(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2855(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2856(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2857(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2858(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2859(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2860(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2861(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2862(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2863(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2864(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2865(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2866(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2867(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2868(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2869(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2870(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2871(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2872(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2873(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2874(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2875(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2876(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2877(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2878(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2879(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2880(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2881(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2882(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2883(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2884(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2885(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2886(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2887(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2888(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2889(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2890(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2891(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2892(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2893(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2894(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2895(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2896(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2897(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2898(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2899(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2900(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2901(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2902(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2903(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2904(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2905(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2906(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2907(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2908(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2909(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2910(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2911(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2912(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2913(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2914(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2915(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2916(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2917(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2918(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2919(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2920(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2921(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2922(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2923(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2924(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2925(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2926(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2927(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2928(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2929(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2930(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2931(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2932(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2933(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2934(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2935(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2936(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2937(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2938(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2939(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2940(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2941(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2942(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2943(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2944(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2945(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2946(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2947(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2948(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2949(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2950(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2951(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2952(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2953(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2954(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2955(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2956(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2957(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2958(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2959(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2960(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2961(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2962(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2963(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2964(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2965(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2966(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2967(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2968(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2969(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2970(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2971(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2972(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2973(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2974(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2975(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2976(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2977(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2978(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2979(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2980(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2981(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2982(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2983(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2984(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2985(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2986(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2987(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2988(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2989(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2990(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2991(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2992(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2993(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2994(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2995(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2996(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2997(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2998(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_2999(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3000(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3001(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3002(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3003(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3004(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3005(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3006(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3007(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3008(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3009(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3010(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3011(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3012(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3013(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3014(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3015(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3016(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3017(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3018(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3019(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3020(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3021(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3022(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3023(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3024(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3025(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3026(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3027(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3028(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3029(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3030(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3031(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3032(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3033(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3034(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3035(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3036(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3037(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3038(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3039(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3040(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3041(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3042(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3043(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3044(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3045(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3046(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3047(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3048(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3049(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3050(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3051(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3052(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3053(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3054(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3055(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3056(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3057(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3058(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3059(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3060(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3061(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3062(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3063(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3064(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3065(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3066(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3067(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3068(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3069(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3070(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3071(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3072(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3073(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3074(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3075(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3076(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3077(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3078(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3079(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3080(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3081(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3082(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3083(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3084(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3085(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3086(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3087(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3088(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3089(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3090(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3091(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3092(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3093(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3094(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3095(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3096(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3097(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3098(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3099(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3100(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3101(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3102(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3103(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3104(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3105(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3106(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3107(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3108(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3109(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3110(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3111(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3112(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3113(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3114(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3115(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3116(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3117(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3118(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3119(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3120(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3121(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3122(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3123(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3124(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3125(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3126(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3127(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3128(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3129(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3130(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3131(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3132(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3133(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3134(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3135(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3136(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3137(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3138(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3139(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3140(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3141(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3142(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3143(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3144(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3145(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3146(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3147(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3148(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3149(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3150(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3151(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3152(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3153(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3154(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3155(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3156(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3157(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3158(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3159(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3160(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3161(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3162(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3163(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3164(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3165(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3166(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3167(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3168(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3169(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3170(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3171(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3172(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3173(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3174(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3175(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3176(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3177(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3178(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3179(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3180(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3181(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3182(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3183(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3184(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3185(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3186(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3187(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3188(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3189(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3190(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3191(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3192(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3193(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3194(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3195(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3196(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3197(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3198(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3199(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3200(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3201(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3202(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3203(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3204(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3205(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3206(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3207(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3208(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3209(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3210(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3211(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3212(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3213(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3214(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3215(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3216(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3217(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3218(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3219(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3220(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3221(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3222(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3223(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3224(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3225(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3226(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3227(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3228(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3229(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3230(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3231(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3232(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3233(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3234(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3235(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3236(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3237(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3238(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3239(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3240(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3241(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3242(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3243(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3244(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3245(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3246(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3247(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3248(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3249(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3250(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3251(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3252(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3253(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3254(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3255(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3256(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3257(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3258(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3259(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3260(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3261(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3262(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3263(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3264(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3265(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3266(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3267(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3268(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3269(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3270(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3271(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3272(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3273(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3274(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3275(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3276(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3277(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3278(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3279(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3280(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3281(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3282(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3283(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3284(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3285(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3286(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3287(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3288(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3289(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3290(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3291(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3292(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3293(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3294(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3295(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3296(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3297(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3298(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3299(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3300(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3301(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3302(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3303(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3304(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3305(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3306(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3307(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3308(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3309(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3310(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3311(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3312(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3313(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3314(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3315(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3316(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3317(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3318(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3319(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3320(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3321(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3322(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3323(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3324(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3325(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3326(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3327(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3328(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3329(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3330(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3331(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3332(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3333(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3334(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3335(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3336(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3337(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3338(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3339(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3340(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3341(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3342(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3343(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3344(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3345(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3346(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3347(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3348(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3349(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3350(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3351(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3352(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3353(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3354(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3355(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3356(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3357(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3358(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3359(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3360(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3361(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3362(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3363(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3364(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3365(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3366(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3367(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3368(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3369(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3370(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3371(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3372(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3373(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3374(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3375(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3376(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3377(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3378(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3379(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3380(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3381(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3382(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3383(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3384(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3385(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3386(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3387(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3388(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3389(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3390(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3391(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3392(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3393(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3394(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3395(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3396(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3397(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3398(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3399(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3400(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3401(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3402(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3403(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3404(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3405(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3406(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3407(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3408(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3409(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3410(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3411(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3412(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3413(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3414(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3415(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3416(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3417(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3418(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3419(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3420(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3421(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3422(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3423(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3424(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3425(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3426(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3427(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3428(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3429(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3430(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3431(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3432(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3433(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3434(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3435(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3436(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3437(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3438(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3439(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3440(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3441(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3442(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3443(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3444(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3445(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3446(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3447(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3448(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3449(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3450(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3451(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3452(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3453(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3454(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3455(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3456(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3457(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3458(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3459(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3460(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3461(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3462(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3463(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3464(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3465(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3466(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3467(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3468(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3469(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3470(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3471(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3472(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3473(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3474(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3475(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3476(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3477(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3478(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3479(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3480(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3481(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3482(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3483(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3484(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3485(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3486(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3487(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3488(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3489(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3490(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3491(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3492(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3493(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3494(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3495(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3496(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3497(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3498(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3499(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3500(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3501(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3502(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3503(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3504(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3505(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3506(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3507(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3508(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3509(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3510(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3511(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3512(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3513(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3514(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3515(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3516(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3517(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3518(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3519(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3520(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3521(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3522(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3523(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3524(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3525(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3526(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3527(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3528(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3529(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3530(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3531(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3532(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3533(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3534(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3535(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3536(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3537(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3538(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3539(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3540(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3541(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3542(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3543(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3544(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3545(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3546(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3547(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3548(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3549(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3550(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3551(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3552(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3553(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3554(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3555(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3556(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3557(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3558(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3559(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3560(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3561(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3562(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3563(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3564(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3565(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3566(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3567(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3568(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3569(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3570(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3571(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3572(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3573(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3574(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3575(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3576(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3577(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3578(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3579(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3580(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3581(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3582(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3583(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3584(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3585(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3586(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3587(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3588(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3589(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3590(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3591(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3592(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3593(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3594(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3595(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3596(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3597(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3598(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3599(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3600(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3601(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3602(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3603(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3604(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3605(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3606(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3607(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3608(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3609(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3610(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3611(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3612(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3613(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3614(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3615(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3616(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3617(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3618(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3619(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3620(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3621(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3622(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3623(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3624(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3625(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3626(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3627(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3628(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3629(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3630(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3631(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3632(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3633(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3634(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3635(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3636(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3637(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3638(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3639(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3640(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3641(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3642(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3643(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3644(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3645(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3646(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3647(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3648(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3649(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3650(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3651(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3652(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3653(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3654(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3655(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3656(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3657(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3658(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3659(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3660(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3661(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3662(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3663(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3664(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3665(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3666(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3667(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3668(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3669(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3670(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3671(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3672(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3673(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3674(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3675(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3676(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3677(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3678(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3679(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3680(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3681(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3682(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3683(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3684(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3685(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3686(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3687(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3688(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3689(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3690(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3691(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3692(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3693(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3694(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3695(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3696(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3697(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3698(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3699(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3700(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3701(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3702(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3703(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3704(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3705(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3706(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3707(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3708(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3709(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3710(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3711(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3712(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3713(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3714(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3715(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3716(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3717(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3718(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3719(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3720(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3721(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3722(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3723(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3724(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3725(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3726(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3727(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3728(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3729(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3730(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3731(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3732(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3733(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3734(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3735(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3736(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3737(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3738(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3739(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3740(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3741(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3742(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3743(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3744(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3745(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3746(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3747(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3748(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3749(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3750(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3751(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3752(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3753(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3754(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3755(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3756(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3757(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3758(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3759(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3760(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3761(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3762(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3763(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3764(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3765(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3766(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3767(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3768(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3769(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3770(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3771(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3772(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3773(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3774(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3775(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3776(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3777(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3778(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3779(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3780(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3781(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3782(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3783(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3784(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3785(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3786(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3787(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3788(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3789(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3790(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3791(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3792(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3793(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3794(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3795(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3796(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3797(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3798(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3799(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3800(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3801(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3802(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3803(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3804(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3805(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3806(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3807(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3808(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3809(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3810(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3811(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3812(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3813(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3814(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3815(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3816(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3817(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3818(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3819(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3820(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3821(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3822(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3823(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3824(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3825(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3826(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3827(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3828(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3829(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3830(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3831(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3832(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3833(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3834(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3835(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3836(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3837(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3838(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3839(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3840(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3841(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3842(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3843(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3844(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3845(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3846(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3847(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3848(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3849(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3850(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3851(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3852(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3853(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3854(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3855(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3856(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3857(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3858(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3859(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3860(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3861(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3862(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3863(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3864(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3865(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3866(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3867(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3868(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3869(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3870(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3871(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3872(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3873(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3874(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3875(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3876(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3877(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3878(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3879(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3880(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3881(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3882(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3883(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3884(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3885(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3886(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3887(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3888(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3889(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3890(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3891(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3892(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3893(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3894(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3895(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3896(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3897(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3898(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3899(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3900(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3901(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3902(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3903(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3904(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3905(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3906(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3907(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3908(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3909(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3910(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3911(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3912(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3913(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3914(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3915(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3916(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3917(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3918(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3919(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3920(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3921(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3922(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3923(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3924(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3925(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3926(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3927(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3928(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3929(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3930(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3931(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3932(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3933(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3934(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3935(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3936(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3937(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3938(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3939(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3940(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3941(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3942(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3943(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3944(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3945(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3946(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3947(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3948(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3949(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3950(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3951(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3952(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3953(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3954(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3955(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3956(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3957(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3958(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3959(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3960(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3961(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3962(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3963(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3964(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3965(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3966(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3967(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3968(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3969(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3970(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3971(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3972(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3973(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3974(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3975(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3976(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3977(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3978(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3979(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3980(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3981(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3982(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3983(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3984(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3985(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3986(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3987(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3988(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3989(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3990(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3991(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3992(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3993(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3994(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3995(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3996(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3997(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3998(const std::vector<std::shared_ptr<int>>& data);
+    
+    double A868_3999(const std::vector<std::shared_ptr<int>>& data);
+    
+}
+
